@@ -12,7 +12,7 @@ img{
   background-color: skyblue;
 }
 body{
-  background-color: #008080;
+  background: linear-gradient(45deg,red,blue);
 }
 .tabs{
   background-color:#358983;
